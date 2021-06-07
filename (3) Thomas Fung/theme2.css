@@ -1,0 +1,180 @@
+body.bodyhome{
+	background-color: black;
+	background-image: url(images/spacebeer.jpg);
+	background-attachment: fixed;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+body.bodyach{
+	background-color: black;
+	background-image: url(images/squares.jpg);
+	background-attachment: fixed;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+body.bodygal{
+	background-color: black;
+	background-image: url(images/polyred.jpg);
+	background-attachment: fixed;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+div{
+	background-color: rgba(255,255,255,0.5);
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 250px;
+	margin-top: 450px;
+	padding: 30px;
+	border: 3px solid white;
+	border-radius: 30px;
+}
+div.home1{
+	background-color: rgba(255,255,255,0.75);
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 250px;
+	margin-top: 10px;
+	padding: 30px;
+	border: 3px solid white;
+	border-radius: 30px;
+}
+
+div.ach1{
+	background-color: rgba(0,0,0,0);
+	border: 3px solid white;
+	border-radius: 30px;
+	color: white;
+	margin-bottom: 250px;
+	margin-top: 10px;
+}
+div.gallery1{
+	background-color: rgba(255,255,255,0.15);
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 250px;
+	margin-top: 10px;
+	padding: 30px;
+	border: 3px solid white;
+	border-radius: 30px;
+}
+
+div.ach2{
+	background-color: rgba(0,0,0,0);
+	border-radius: 30px;
+	height: 450px;
+	color: white;
+	margin-bottom: 250px;
+	margin-top: 450px;
+	margin-left: 100px;
+	
+}
+div.ach3{
+	background-color: rgba(0,0,0,0);
+	border: 3px solid white;
+	border-radius: 30px;
+	color: white;
+	margin-bottom: 250px;
+	margin-top: 450px;
+	margin-right: 100px;
+}
+
+img.right{
+	float: right;
+	margin-left: 20px;
+	width: 250px;
+	border: 2px solid white;
+	border-radius: 30px;
+}
+img.gallery{
+	margin-left: 150px;
+	width: 500px;
+	border: 2px solid white;
+	border-radius: 30px;
+}
+p{
+	font-size: 12pt;
+	font-family: Calibri;
+	line-height: 1.5em;
+}
+p.pgallery{
+	font-size: 14pt;
+	font-family: Calibri;
+	line-height: 1.5em;
+	text-align: center;
+}
+p.html{
+	font-size: 14pt;
+	font-family: Calibri;
+	line-height: 1.5em;
+	text-align: center;
+}
+h1{
+	font-family: Calibri;
+	text-align: center;
+	font-size: 60pt;
+	color: black;
+}
+h1.h1white{
+	font-family: Calibri;
+	text-align: center;
+	font-size: 60pt;
+	color: white;
+}
+h1.h1black{
+	font-family: Calibri;
+	text-align: center;
+	font-size: 60pt;
+	color: black;
+}
+
+h2{
+	font-family: Calibri;
+	text-align: center;
+	font-size: 25pt;
+}
+
+ul{
+	font-family: Calibri;
+	font-size: 16pt;
+	line-height: 2em;
+}
+
+table{
+	background: white;
+	width: 100%;
+	border: 3px solid black;
+}
+tr{
+	
+}
+th{
+	background-color: black;
+	color: white;
+}
+td{
+	border:1px solid black;
+}
+
+a:link{
+	color: #2f9149;
+}
+
+a:visited {
+	color: #2f9149;
+}
+
+a:hover {
+	color: #07e843;
+}
+
+a:active {
+	
+}
